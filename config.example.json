@@ -1,0 +1,11 @@
+{
+    "WanInterface": "Ethernet",
+    "LanInterfaces": [
+        "Ethernet 2"
+    ],
+    "LanGatewayIP": "192.168.50.1",
+    "LanSubnetPrefixLength": 24,
+    "NatName": "PCRouterNat",
+    "WifiSsid": "MySecureHotspot",
+    "WifiPassword": "ChangeMe123!"
+}
